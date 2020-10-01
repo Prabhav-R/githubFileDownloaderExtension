@@ -1,4 +1,4 @@
-﻿# GithubFileDownloader chrome extension
+﻿# GithubFileDownloader chrome extension (Depracated now since Github changed its UI :( , will fix soon)
 Ever Had to clone an entire repositry just for single or few files?
 This is chrome extension to download files directly from github without cloning the entire repositry
 # How To Use
